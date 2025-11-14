@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git 'https://github.com/ashokitschool/maven-web-app.git'
+                git 'https://github.com/InfoSoftronix/maven-java-app.git'
             }
         }
         stage('Maven Build') {
