@@ -150,6 +150,15 @@
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
+
+    <div class="course-card">
+      <div class="course-icon"><i class="fas fa-robot"></i></div>
+      <div class="course-title">Data Analytic</div>
+      <div class="course-desc">
+        Become industry-ready with Machine Learning, Python, Power BI, MY SQL, and real-time data projects.
+      </div>
+      <a href="#" class="btn">Enroll Now</a>
+    </div>
   </div>
 
 </body>
