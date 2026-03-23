@@ -110,7 +110,7 @@
 <body>
 
   <header>
-    <h1>🚀 Softronix IT Training Courses</h1>
+    <h1> Softronix IT Training Courses</h1>
     <p>Upgrade your career with our industry-ready training programs</p>
   </header>
 
