@@ -112,6 +112,7 @@
   <header>
     <h1>🚀 Softronix IT Training Courses</h1>
     <p>Upgrade your career with our industry-ready training programs</p>
+     <p>This my Developer Branch Environment/p>
   </header>
 
   <div class="container">
@@ -138,42 +139,6 @@
       <div class="course-title">DevOps with AWS</div>
       <div class="course-desc">
         Get hands-on with Docker, Kubernetes, Jenkins, Terraform & AWS Cloud to launch your DevOps career.
-      </div>
-      <a href="#" class="btn">Enroll Now</a>
-    </div>
-
-    <div class="course-card">
-      <div class="course-icon"><i class="fas fa-robot"></i></div>
-      <div class="course-title">Data Science & AI</div>
-      <div class="course-desc">
-        Become industry-ready with Machine Learning, Python, Deep Learning, NLP, and real-time data projects.
-      </div>
-      <a href="#" class="btn">Enroll Now</a>
-    </div>
-
-    <div class="course-card">
-      <div class="course-icon"><i class="fas fa-robot"></i></div>
-      <div class="course-title">Data Analytic</div>
-      <div class="course-desc">
-        Become industry-ready with Machine Learning, Python, Power BI, MY SQL, and real-time data projects.
-      </div>
-      <a href="#" class="btn">Enroll Now</a>
-    </div>
-
-     <div class="course-card">
-      <div class="course-icon"><i class="fas fa-robot"></i></div>
-      <div class="course-title">Digital Marketing</div>
-      <div class="course-desc">
-        Become industry-ready with Digital Expert, SEO, Meta Expert, and real-time data projects.
-      </div>
-      <a href="#" class="btn">Enroll Now</a>
-    </div>
-
-    <div class="course-card">
-      <div class="course-icon"><i class="fas fa-robot"></i></div>
-      <div class="course-title">Software Testing</div>
-      <div class="course-desc">
-        Become industry-ready with QA Expert ,Manual,Java,Python,Automation and real-time  projects.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
